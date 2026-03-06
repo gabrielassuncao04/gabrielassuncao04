@@ -13,7 +13,8 @@ Apesar de minhas especializações almejo atuar na aréa de hardware, sistemas e
 
 ## Redes
 
-![texto alternativo]([imagem.png](https://img.claudemirpereira.com.br/2025/05/F23-15997.jpg))
+![texto alternativo](<img width="600" height="750" alt="image" src="https://github.com/user-attachments/assets/2e8b03b4-90e0-49e1-b4f6-0642b07bf308" />
+)
 
 
 
