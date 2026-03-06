@@ -1,17 +1,21 @@
-## Hi there 👋
+## Olá 👋
 
-**gabrielassuncao04/gabrielassuncao04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Gabriel tenho 24 anos sou natural de Santiago/RS, atualmente curso **Sistemas de Informação** (3º semestre) e estou ingressando no **Técnico em informática**, também tenho como aréa de atuação a dança, trabalhando como bailarino profissional.
 
-Here are some ideas to get you started:
+Apesar de minhas especializações almejo atuar na aréa de hardware, sistemas embarcados e analista de dados, na dança meus códigos são as danças de carater popular, tendo como aréa de estuda as danças provenientes de corpos discidentes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#Meus Hobbies 
+
+- Jogos Digitais 
+- Musica
+- Pádel
+- Cinema
+
+## Redes
+
+![texto alternativo]([imagem.png](https://img.claudemirpereira.com.br/2025/05/F23-15997.jpg))
+
+
 
 
 
