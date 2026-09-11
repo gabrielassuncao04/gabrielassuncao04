@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src = "https://i.pinimg.com/originals/bd/f3/4b/bdf34b4cc9b48276854fb78466bc5cdd.gif" width="60%">
+  <img src = "https://i.pinimg.com/originals/15/f0/72/15f0729d004bbf7ecea976b38a1fd8cb.gif" width="60%">
 </p>
 
 <h1 align="center">Gabriel Assunção Gonçalves</h1>
@@ -18,7 +18,6 @@
 
 - 🎓 Graduando em **Sistemas de Informação** (Universidade Franciscana - UFN, 2025)
 - 📜 Técnico em **Informática** (Universidade Federal de Santa Maria - UFSM, 2026)
-- 💼 Atualmente atuando como **Assistente de Pós-Venda** na SCA Mobiliário Contemporâneo.
 - 🛠️ Experiência em suporte ao usuário, gestão de chamados, documentação digital e processos administrativos.
 - 📍 Baseado em Santa Maria, RS.
 
