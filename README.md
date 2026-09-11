@@ -1,22 +1,34 @@
-## Olá 👋
+# Olá! Eu sou o Gabriel Assunção 👋
 
-Me chamo Gabriel tenho 24 anos sou natural de Santiago/RS, atualmente curso **Sistemas de Informação** (3º semestre) e estou ingressando no **Técnico em informática**, também tenho como aréa de atuação a dança, trabalhando como bailarino profissional.
+Estudante de **Sistemas de Informação** na UFN e **Técnico em Informática** na UFSM. Tenho foco em suporte técnico, análise de processos e infraestrutura de TI.
 
-Apesar de minhas especializações almejo atuar na aréa de hardware, sistemas embarcados e analista de dados, na dança meus códigos são as danças de carater popular, tendo como aréa de estuda as danças provenientes de corpos discidentes
+---
 
-#Meus Hobbies 
+### 💻 Sobre Mim
 
-- Jogos Digitais 
-- Musica
-- Pádel
-- Cinema
+- 🎓 Graduando em **Sistemas de Informação** (Universidade Franciscana - UFN)
+- 📜 Técnico em **Informática** (Universidade Federal de Santa Maria - UFSM)
+- 🛠️ Experiência em suporte ao usuário, gestão de chamados, documentação digital e pós-venda.
+- 📍 Baseado em Santa Maria, RS.
 
-## Redes
+---
 
-![texto alternativo](<img width="600" height="750" alt="image" src="https://github.com/user-attachments/assets/2e8b03b4-90e0-49e1-b4f6-0642b07bf308" />
-)
+### 🛠️ Tecnologias e Ferramentas
 
+| Categoria | Ferramentas & Linguagens |
+| :--- | :--- |
+| **Linguagens** | JavaScript, C, Java |
+| **Bancos de Dados** | MySQL, PostgreSQL, SQL |
+| **Gestão & Processos** | Jira, Excel (Intermediário/Avançado), Pacote Office, Power BI |
+| **Infraestrutura** | Redes TCP/IP, Suporte a Sistemas, Manutenção de Hardware |
 
+---
+
+### 📬 Vamos nos conectar?
+
+- 💼 **LinkedIn:** [Gabriel Assunção Gonçalves](https://www.linkedin.com/in/gabriel-assunção-gonçalves.si)
+- ✉️ **E-mail:** gab.assun@gmail.com
+- 📱 **Telefone:** (55) 981776-518
 
 
 
