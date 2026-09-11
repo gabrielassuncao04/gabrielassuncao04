@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src = "https://github.com/Jain131102" width="60%">
+  <img src = "https://erwinlaiho.fi/artwork/hello-world-042kb" width="60%">
 </p>
 
 <h1 align="center">Gabriel Assunção Gonçalves</h1>
