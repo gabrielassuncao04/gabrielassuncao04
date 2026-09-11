@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src = "https://i.imgur.com/bHA8KE7.gif" width="60%">
+  <img src = "https://uk.pinterest.com/pin/hello-world-gif-hello-world-discover-and-share-gifs--617415430203364194/" width="60%">
 </p>
 
 <h1 align="center">Gabriel Assunção Gonçalves</h1>
