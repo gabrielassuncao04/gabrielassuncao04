@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src = "https://www.shutterstock.com/shutterstock/videos/1099151773/thumb/8.jpg?ip=x480" width="60%">
+  <img src = "https://i.pinimg.com/originals/bd/f3/4b/bdf34b4cc9b48276854fb78466bc5cdd.gif" width="60%">
 </p>
 
 <h1 align="center">Gabriel Assunção Gonçalves</h1>
