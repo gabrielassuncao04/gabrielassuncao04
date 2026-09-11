@@ -1,13 +1,14 @@
+
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3axwS9zZ41xP9G/giphy.gif" alt="Olá, Mundo! Gif animado" width="60%">
+  <img"https://www.google.com/search?client=ms-android-samsung-ss&hs=SpwV&sca_esv=0445900a5023e21a&sxsrf=APpeQnt0Ot7XS3vdMPpVUEhoIzg2vFXQ-A:1789150398092&udm=2&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KszkLt6nAp8aiRKj5vMjqZApKYr2wv-EHakX1SS4JF8fY1_A0DfPLoyd61yD2Gjy0hFwA9uQzfe2qr5XIoplX3KzfO3c_7sLxOCnDYHgTrJvlrGWe6rOMcJgKFy1spJmA4CUthlj7crKkiAvZyM7U7MMtfusfte9Ymk65JH3fWfl1w5KMEYQluTyqALBKbhAbtr4yb6xqCsXdMHlpGIrmLejbgIUG8&q=gif+ola+mundo&sa=X&ved=2ahUKEwi_-bXPkOeWAxV4E7kGHaaaHwYQtKgLegQIERAB&biw=411&bih=757&dpr=2.63#sv=CAMSVxoyKhBlLWxkalRrQ25qX1ZlVF9NMg5sZGpUa0Nual9WZVRfTToOeDZUVjhGeV81Q2Vyek0gBCoXCgFzEhBlLWxkalRrQ25qX1ZlVF9NGAEwAUoECAEQAhgHIPjPzMYGSggQAhgBIAIoAQ width="60%">
 </p>
 
-<!-- TÍTULO PRINCIPAL -->
 <h1 align="center">Gabriel Assunção Gonçalves</h1>
 <p align="center">Estudante de Sistemas de Informação & Técnico em Informática</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Cursando-green?style=for-the-badge&logo=github" alt="Status">
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Foco-TI%20%26%20Inovação-blue?style=for-the-badge&logo=dev.to" alt="Foco">
 </p>
 
@@ -31,8 +32,11 @@ Aqui estão as tecnologias e ferramentas com as quais tenho experiência, organi
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
 </p>
 
@@ -40,7 +44,9 @@ Aqui estão as tecnologias e ferramentas com as quais tenho experiência, organi
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
@@ -48,8 +54,11 @@ Aqui estão as tecnologias e ferramentas com as quais tenho experiência, organi
 
 <p align="left">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Pacote%20Office-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Pacote Office">
 </p>
 
@@ -58,12 +67,14 @@ Aqui estão as tecnologias e ferramentas com as quais tenho experiência, organi
 ## 📬 Vamos nos conectar?
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-assunção-gonçalves" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-assun%C3%A7%C3%A3o-gon%C3%A7alves" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:gab.assun@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Telefone-(55) 981776--518-blueviolet?style=for-the-badge&logo=whatsapp" alt="Telefone">
 </p>
 
