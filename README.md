@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src = "https://erwinlaiho.fi/artwork/hello-world-042kb" width="60%">
+  <img src = "https://www.shutterstock.com/shutterstock/videos/1099151773/thumb/8.jpg?ip=x480" width="60%">
 </p>
 
 <h1 align="center">Gabriel Assunção Gonçalves</h1>
